@@ -1,0 +1,152 @@
+[Errno 2] No such file or directory: 'assets/word_01_49_11_070695.png'
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+[Errno 2] No such file or directory: 'assets/word_01_52_25_174636.png'
+min() arg is an empty sequence
+min() arg is an empty sequence
+[Errno 2] No such file or directory: 'assets/word_01_52_26_578816.png'
+min() arg is an empty sequence
+[Errno 2] No such file or directory: 'assets/word_01_52_27_725286.png'
+min() arg is an empty sequence
+min() arg is an empty sequence
+[Errno 2] No such file or directory: 'assets/word_01_52_30_089593.png'
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+[Errno 2] No such file or directory: 'assets/word_16_19_48_651024.png'
+[Errno 2] No such file or directory: 'assets/word_16_20_52_187569.png'
+min() arg is an empty sequence
+[Errno 2] No such file or directory: 'assets/word_00_56_43_636525.png'
+[Errno 2] No such file or directory: 'assets/word_00_56_59_602217.png'
+[Errno 2] No such file or directory: 'assets/word_00_57_00_897738.png'
+[Errno 2] No such file or directory: 'assets/word_00_57_01_155135.png'
+[Errno 2] No such file or directory: 'assets/word_00_57_01_155135.png'
+[Errno 2] No such file or directory: 'assets/word_00_57_02_132449.png'
+[Errno 2] No such file or directory: 'assets/word_00_57_02_715108.png'
+[Errno 2] No such file or directory: 'assets/word_00_57_03_067665.png'
+[Errno 2] No such file or directory: 'assets/word_00_57_03_375138.png'
+[Errno 2] No such file or directory: 'assets/word_00_57_03_869946.png'
+[Errno 2] No such file or directory: 'assets/word_00_57_04_321578.png'
+[Errno 2] No such file or directory: 'assets/word_00_57_04_838209.png'
+[Errno 2] No such file or directory: 'assets/word_00_57_05_322432.png'
+[Errno 2] No such file or directory: 'assets/word_00_57_05_665452.png'
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+[Errno 2] No such file or directory: 'assets/word_00_57_06_244492.png'
+[Errno 2] No such file or directory: 'assets/word_00_57_06_257653.png'
+min() arg is an empty sequence
+min() arg is an empty sequence
+[Errno 2] No such file or directory: 'assets/word_00_57_06_567210.png'
+min() arg is an empty sequence
+[Errno 2] No such file or directory: 'assets/word_00_57_06_972417.png'
+min() arg is an empty sequence
+[Errno 2] No such file or directory: 'assets/word_00_57_07_138284.png'
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+[Errno 2] No such file or directory: 'assets/word_00_57_07_400973.png'
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+[Errno 2] No such file or directory: 'assets/word_00_57_37_533100.png'
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+[Errno 2] No such file or directory: 'assets/word_00_57_38_427703.png'
+[Errno 2] No such file or directory: 'assets/word_00_57_38_626063.png'
+[Errno 2] No such file or directory: 'assets/word_00_57_38_672924.png'
+[Errno 2] No such file or directory: 'assets/word_00_57_38_812226.png'
+[Errno 2] No such file or directory: 'assets/word_00_57_39_155843.png'
+[Errno 2] No such file or directory: 'assets/word_00_57_39_531949.png'
+[Errno 2] No such file or directory: 'assets/word_00_57_39_987672.png'
+[Errno 2] No such file or directory: 'assets/word_00_57_41_040363.png'
+[Errno 2] No such file or directory: 'assets/word_00_57_41_526279.png'
+[Errno 2] No such file or directory: 'assets/word_00_57_42_921806.png'
+[Errno 2] No such file or directory: 'assets/word_00_57_43_124845.png'
+[Errno 2] No such file or directory: 'assets/word_00_57_44_229820.png'
+[Errno 2] No such file or directory: 'assets/word_00_57_44_909993.png'
+[Errno 2] No such file or directory: 'assets/word_00_57_45_353655.png'
+[Errno 2] No such file or directory: 'assets/word_00_57_45_491198.png'
+[Errno 2] No such file or directory: 'assets/word_00_57_46_259180.png'
+[Errno 2] No such file or directory: 'assets/word_00_57_46_647996.png'
+[Errno 2] No such file or directory: 'assets/word_00_57_46_860263.png'
+[Errno 2] No such file or directory: 'assets/word_00_16_50_649336.png'
