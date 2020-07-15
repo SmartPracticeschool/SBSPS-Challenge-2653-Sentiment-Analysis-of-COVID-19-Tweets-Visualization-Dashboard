@@ -24,3 +24,10 @@ json
 vanderSentiment
 unidecode
 
+
+/*Difficulties faced*/
+while choosing algorithm
+while choosing framework among django , flask , dash
+deployment issues
+coding errors
+
